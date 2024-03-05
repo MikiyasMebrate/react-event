@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# This Project show about event and Some React folder structure 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
